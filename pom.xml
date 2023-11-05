@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.ubl</groupId>
 	<artifactId>student-web</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>2112500331-SNAPSHOT</version>
 	<name>student-web</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
